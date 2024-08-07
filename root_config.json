@@ -1,0 +1,5 @@
+{
+    "name": "ToDo",
+    "provider_region": "azure-westeurope",
+    "deployment_model": "LOCAL"
+}
